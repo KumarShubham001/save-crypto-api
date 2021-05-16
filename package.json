@@ -1,0 +1,14 @@
+{
+  "name": "send-request",
+  "version": "1.0.0",
+  "description": "Send http requet from node js to other servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kumar Shubham",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
